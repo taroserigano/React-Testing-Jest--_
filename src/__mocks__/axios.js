@@ -1,3 +1,5 @@
+// this will invoke when we call axios.get in the application
+
 const mockResponse = {
     data: {
         results: [
